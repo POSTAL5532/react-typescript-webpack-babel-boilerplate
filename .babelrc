@@ -13,7 +13,9 @@
                     "safari": "11.1",
                     "ie": "10",
                     "node": 12
-                }
+                },
+                "loose": true,
+                "shippedProposals": true
             }
         ],
         "@babel/preset-react"
